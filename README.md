@@ -5,9 +5,7 @@
 
 ```kotlin
  Sou Ana Clara Oliveira Leal, tenho 23 anos.
- Estou cursando - Banco de Dados - FATEC São José dos Campos - Prof. Jessen Vidal. 
- Minha linguagem de conhecimento é Python.
- Faço parte do desenvolvimento do SPanel.
+ Banco de Dados - FATEC São José dos Campos - Prof. Jessen Vidal - 2/6 
 ```
 
 ## **Linguagens e Ferramentas:**  
