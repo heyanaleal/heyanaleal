@@ -4,8 +4,10 @@
 <img align="right" width="180" src="https://www.imagensanimadas.com/data/media/218/pinguim-imagem-animada-0182.gif" />
 
 ```kotlin
- Eu sou Ana Clara Oliveira Leal, tenho 24 anos, moro em São José dos Campos - SP.
- Curso Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal - 2/6
+ Eu sou Ana Clara Oliveira Leal,
+ tenho 24 anos, moro em São José dos Campos - SP.
+ Curso Banco de Dados na FATEC 
+ São José dos Campos - Prof. Jessen Vidal - 2/6
 ```
 ![](https://visitor-badge.glitch.me/badge?page_id=heyanaleal-badge.id&left_color=black&right_color=pink)
 
