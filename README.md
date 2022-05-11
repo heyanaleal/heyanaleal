@@ -4,7 +4,7 @@
 <img align="right" width="300" src="https://www.clasesdeperiodismo.com/wp-content/uploads/2017/01/computadora.gif" />
 
 ```kotlin
- Sou Ana Clara Oliveira Leal, tenho 23 anos.
+ Sou Ana Clara Oliveira Leal, tenho 24 anos.
  Banco de Dados - FATEC São José dos Campos - Prof. Jessen Vidal - 2/6 
 ```
 
