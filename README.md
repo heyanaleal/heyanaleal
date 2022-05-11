@@ -1,7 +1,7 @@
 
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" width="180" src="https://www.imagensanimadas.com/data/media/218/pinguim-imagem-animada-0182.gif" />
+<img align="right" width="150" src="https://www.imagensanimadas.com/data/media/218/pinguim-imagem-animada-0182.gif" />
 
 ```kotlin
  Eu sou Ana Clara Oliveira Leal,tenho 24 anos,
