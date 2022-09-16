@@ -6,7 +6,7 @@
 ```kotlin
  Eu sou Ana Clara Oliveira Leal,tenho 24 anos,
  moro em São José dos Campos - SP.
- Curso Banco de Dados na FATEC São José dos Campos - 2/6
+ Curso Banco de Dados na FATEC São José dos Campos - 3/6
 ```
 ![](https://visitor-badge.glitch.me/badge?page_id=heyanaleal-badge.id&left_color=black&right_color=pink)
 
