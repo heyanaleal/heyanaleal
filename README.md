@@ -13,12 +13,11 @@
 
 ### **Linguagens e Ferramentas**  
 
-<code><img height="30" src="https://engenharia360.com/wp-content/uploads/2019/04/python-engenharia360-3-1024x512.png"></code>
-<code><img height="30" src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg"></code>
-<code><img height="30" src="https://pbs.twimg.com/profile_images/1206603239791218688/0AwZ0m6W_400x400.jpg"></code>
-<code><img height="30" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png"></code>
-<code><img height="30" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png"></code>
-<code><img height="30" src="https://www.nicepng.com/png/detail/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 
 ### **GitHub Estatísticas**
 
