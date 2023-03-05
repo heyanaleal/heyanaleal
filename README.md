@@ -12,12 +12,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=heyanaleal-badge.id&left_color=black&right_color=pink)
 
 ### **Linguagens e Ferramentas**  
-
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png"></code>
+
 
 ### **GitHub Estatísticas**
 
