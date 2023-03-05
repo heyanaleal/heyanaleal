@@ -1,7 +1,9 @@
 
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" width="150" src="https://www.imagensanimadas.com/data/media/218/pinguim-imagem-animada-0182.gif" />
+<!-- <img align="right" width="150" src="https://www.imagensanimadas.com/data/media/218/pinguim-imagem-animada-0182.gif" />
+ -->
+<img align="right" width="140" src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif" />
 
 ```kotlin
  Eu sou Ana Clara Oliveira Leal,tenho 24 anos,
@@ -10,7 +12,6 @@
  Trabalho na Dom Rock como estágiaria em engenharia de dados.
 ```
 ![](https://visitor-badge.glitch.me/badge?page_id=heyanaleal-badge.id&left_color=black&right_color=pink)
-
 ### **Linguagens e Ferramentas**  
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
