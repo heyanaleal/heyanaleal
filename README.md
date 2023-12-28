@@ -8,8 +8,8 @@
 ```kotlin
  Eu sou Ana Clara Oliveira Leal,tenho 25 anos,
  moro em São José dos Campos - SP.
- Curso Banco de Dados na FATEC São José dos Campos - 4/6
- Trabalho na Dom Rock como estágiaria em engenharia de dados.
+ Curso Banco de Dados na FATEC São José dos Campos - 6/6
+ Sou estágiaria em desenvolvimento na Touch Health.
 ```
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=heyanaleal-badge.id&left_color=black&right_color=pink) -->
 ### **Linguagens e Ferramentas**  
