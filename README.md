@@ -6,7 +6,7 @@
 <img align="right" width="140" src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif" />
 
 ```kotlin
- Eu sou Ana Clara Oliveira Leal,tenho 25 anos,
+ Eu sou Ana Clara Oliveira Leal,tenho 27 anos,
  moro em São José dos Campos - SP.
  Curso Banco de Dados na FATEC São José dos Campos - 6/6
  Sou estágiaria em desenvolvimento na Touch Health.
